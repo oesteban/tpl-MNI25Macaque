@@ -1,0 +1,22 @@
+{
+  "Authors": [
+    "Chakravarty MM",
+    "Frey S",
+    "Collins DL"
+  ],
+  "Curators": [
+    "Esteban O"
+  ],
+  "Identifier": "MNI25Macaque",
+  "License": "CC0",
+  "Name": "MNI Macaque Atlas",
+  "ReferencesAndLinks": [
+    "https://ro.uow.edu.au/hbspapers/3613",
+    "https://doi.org/10.1016/j.neures.2009.09.629",
+    "https://doi.org/10.1016/j.neuroimage.2011.01.040"
+  ],
+  "Species": [
+    "Macaca fascicularis",
+    "Macaca mulatta"
+  ]
+}
